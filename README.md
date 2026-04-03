@@ -24,7 +24,15 @@ To demonstrate practical understanding of user account provisioning, group-based
 - `access-matrix.xlsx` — department-to-access mapping
 - `lockout-resolution-report.docx` — formal account lockout case documentation
 - `mfa-enrollment-guide.docx` — MFA support guidance
-- `screenshots/` — screenshots of project artifacts
+
+## Screenshot Examples
+The `Screenshots/` folder includes preview images of the following project artifacts:
+- Access requests tracker
+- Password reset and unlock log
+- User onboarding checklist
+- User offboarding checklist
+- Access matrix review
+- Account lockout documentation
 
 ## Skills Demonstrated
 - Active Directory support concepts
